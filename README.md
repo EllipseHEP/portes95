@@ -94,5 +94,5 @@ Toutes ces idées visent à rendre Doors95 encore plus utiles et amusantes pour 
 
 Beavers Testing in Production team @ Hackaburg 2025: Lev, Darius, Marinus, Matej, Jonathan
 
-Adaptation et traduction : EllipseBack
+Adaptation et traduction française : EllipseBack
 
