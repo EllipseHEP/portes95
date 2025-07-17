@@ -55,11 +55,6 @@
   </div>
 </template>
 
-
-
-
-
-
 <script setup>
 const mails = ref([
   {
@@ -160,7 +155,7 @@ Kevin (Helpdesk DGEO)`,
   ,
   {
     id: 6,
-    sender: 'winner@amzn-prizecenter.com',
+    sender: 'winner@amzn-pricecenter.com',
     subject: 'Félicitations ! Vous avez remporté un bon Amazon de 100 francs !',
     date: '2025-05-18',
     body1: `Chère participante,
@@ -213,13 +208,13 @@ function handleClick(id) {
   //if id 5 - fake launcher
   //otherwise 
   if (id == 1) {
-    payloadStore.antRunner = true
     missionsStore.triggerEvent("phishing2")
+    payloadStore.antRunner = true
     missionsStore.addInfectionLevel(30)
   }
   else if (id == 2) {
-    payloadStore.you_are_an_idiot = true
     missionsStore.triggerEvent("phishing2")
+    payloadStore.you_are_an_idiot = true
     missionsStore.addInfectionLevel(40)
   }
   else if (id == 3) {
