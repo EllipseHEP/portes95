@@ -4,9 +4,9 @@ Portes95 est une traduction et adaptation en français du jeu Doors95 : https:/d
 
 Doors95 jeu de navigateur interactif conçu pour enseigner aux utilisateurs les dangers qu'ils peuvent rencontrer tout en effectuant des tâches (quotidiennes) sur un ordinateur.
 
-Vous êtes placé sur un bureau d'ordinateur simulé inspiré de Windows 95 et vous êtes guidé à travers les différentes missions par notre assistant AI Skippy. L'objectif principal est de terminer la tâche à accomplir sans être infecté par des virus.
+Vous êtes placé sur un bureau d'ordinateur simulé inspiré de Windows 95 et vous êtes guidé à travers les différentes missions par l'assistant Skippy. L'objectif principal est de terminer la tâche à accomplir sans être infecté par des virus.
 
-Le projet est hébergé et vous pouvez l'essayer ici: https:/portes95.ch
+Le projet n'est pas encore hébergé.
 
 ## Captures d'écran
 ![Screenshot 2025-05-24 at 08-27-13 ](https://github.com/user-attachments/assets/f1b8bb8b-3878-46a7-b411-9c7a7afc6195)
