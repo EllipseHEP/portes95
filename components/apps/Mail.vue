@@ -60,7 +60,7 @@ const mails = ref([
   {
     id: 1,
     sender: 'security-alert@m1crosoft-support.com',
-    subject: 'Urgent: tentative de connexion inhabituelle détectée sur votre compte Microsoft',
+    subject: 'URGENT tentative de connexion inhabituelle détectée sur votre compte Microsoft',
     date: '2025-05-22',
     body1: `Bonjour,
 

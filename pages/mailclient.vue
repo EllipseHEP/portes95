@@ -115,7 +115,7 @@ Votre équipe de sécurité PayPal`,
   {
     id: 4,
     sender: 'kevin.it@support_it.ch',
-    subject: 'Urgent: la mise à jour de la sécurité a besoin de votre coopération',
+    subject: 'URGENT la mise à jour de la sécurité a besoin de votre coopération',
     date: '2025-05-19',
     body: `Hallo Max,
 
