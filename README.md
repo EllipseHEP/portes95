@@ -1,6 +1,6 @@
 # Portes95
 
-Portes95 est une traduction et adaptation en français du jeu Doors95 : [Doors95](https://doors95.de)
+Portes95 est une traduction et adaptation en français du jeu [Doors95](https://doors95.de).
 
 Doors95 est un navigateur interactif conçu pour enseigner aux utilisateurs les dangers qu'ils peuvent rencontrer tout en effectuant des tâches (quotidiennes) sur un ordinateur.
 
