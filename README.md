@@ -9,8 +9,8 @@ Vous êtes placé sur un bureau d'ordinateur simulé inspiré de Windows 95 et v
 Le projet n'est pas encore hébergé.
 
 ## Captures d'écran
-![Screenshot 2025-05-24 at 08-27-13 ](https://github.com/user-attachments/assets/f1b8bb8b-3878-46a7-b411-9c7a7afc6195)
-![Screenshot 2025-05-24 at 08-28-09 ](https://github.com/user-attachments/assets/8483a627-f560-4f04-a7d0-9579294a9480)
+![Portes_95_Screenshot_1.png](https://github.com/EllipseHEP/portes95/blob/main/assets/screenshots/Portes_95_Screenshot_1.png)
+![Portes_95_Screenshot_1.png](https://github.com/EllipseHEP/portes95/blob/main/assets/screenshots/Portes_95_Screenshot_2.png)
 
 ## Impact
 Doors95 sensibilise à la cybersécurité en simulant les menaces du monde réel dans un environnement amusant et interactif. Les utilisateurs apprennent à repérer et à éviter les risques comme le phishing et les téléchargements dangereux, ce qui le rend accessible à toutes et tous, peu importe le niveau d'expérience.
