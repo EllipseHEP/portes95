@@ -31,7 +31,7 @@ export const useMissionsStore = defineStore("missions", {
       "phishing2": "Oops, ce site était dangereux. Certains liens peuvent installer des logiciels malveillants simplement en cliquant dessus ! Exécutons tout de suite une analyse antivirus complète.",
       "executable1": "Attention, {name}, Ce type de fichier peut être risqué. Des fichiers dangereux comme .exe ou .msi provenant de sources non fiables peuvent transporter des logiciels malveillants. Contrôlez-les toujours !",
       "plottwist1": "Félicitations, {name}! Vous avez terminé le cours interactif de cybersécurité, beau travail !",
-      "plottwist2": "Vous avez été concentré et avaez réfléchi, et cela se voit vraiment. Obtenez votre certificat ici - bien gagné !",
+      "plottwist2": "Vous avez été concentré et avez réfléchi, cela se voit vraiment. Obtenez votre certificat ici - bien joué !",
       "search_results": "Pourquoi tous ces éléments se ressemblent-ils, {name}? Regardez de plus près - certains peuvent être de faux liens ou dangereux essayant de vous tromper.",
       "scam_site": "Hmm, {name}, ce site n'a pas l'air tout à fait correct. Ce pourrait être une arnaque, revenez en arrière et revérifiez l'URL."
     }
