@@ -60,7 +60,8 @@ Le déploiement se fait à l'aide de NetLify, synchronisant directement avec l'�
 
 ## Comment fabriquer/déployer
 
-Pour exécuter Portes95 localement, vous devez avoir la dernière version Node.js LTS et le gestionnaire de packages PNPM installé.  
+Pour exécuter Portes95 localement, vous devez avoir la dernière version Node.js LTS et le gestionnaire de paquets PNPM installé.  
+
 Après avoir cloné le référentiel, les dépendances d'installation d'abord en utilisant `pnpm i`.
 
 - Pour le serveur de développement local, vous pouvez exécuter `pnpm run dev`
