@@ -1,0 +1,14 @@
+allowBuilds:
+  esbuild: set this to true or false
+  esbuild@0.28.2: true
+minimumReleaseAgeExclude:
+  - '@pinia/nuxt@1.0.3'
+  - pinia@4.1.0
+permissions:
+  pixi.js:
+    skills: false
+    build: true
+  pnpm:
+    build: true
+  pnpm@12.13.0:
+    build: true

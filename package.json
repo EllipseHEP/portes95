@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^1.0.3",
+    "@tailwindcss/vite": "^4.3.3",
+    "@vueuse/core": "^15.0.0",
+    "cytoscape": "^3.34.3",
+    "mitt": "^3.0.1",
+    "nuxt": "^4.6.1",
+    "pinia": "^4.1.0",
+    "pixi.js": "^8.22.0",
+    "pnpm": "^12.13.0",
+    "reka-ui": "^2.11.0",
+    "tailwindcss": "^4.3.3",
+    "three": "^0.186.1",
+    "vue": "^3.5.44",
+    "vue-router": "^5.4.0",
+    "vue-typewriter-effect": "^1.0.1"
+  },
+  "allowScripts": {
+    "file:.pnpm/pixi.js@8.22.0/node_modules/pixi.js": true,
+    "pnpm@12.13.0": true,
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.3": true
+  }
+}
